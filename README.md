@@ -8,6 +8,12 @@ In the past, I created an extensive library of AI prompts and outputs. This coll
 
 My motivations for occasionally capturing LLM chats for posterity varies: sometimes it's part of my ongoing project to extract personal context data for Retrieval-Augmented Generation (RAG) from conversation histories. Other times, I'm simply fascinated by documenting what AI was like through real, not synthetic, conversations.
 
+## Capture, Reformatting
+
+Exporting ChatGPT conversations remains challenging. The capture method here was a roundabout method: public export and then Firecrawl.
+
+The conversations are presented in markdown for readability but can be scripted (or ... AI tasked) between formats (see: assistants config for this purpose)
+
 ## Prompts and STT translated
 
 For the past six months, I've primarily used voice-to-text as my main mode of interacting with computer systems. 
